@@ -22,7 +22,7 @@ Kaplan, Daniel. (2015). Re: What is the typical range of dissolved organic carbo
 
 https://realtechwater.com/blog-post/a-guide-to-source-water-monitoring/
 
-https://www.epa.ie/pubs/advice/drinkingwater/DrinkingWaterGuide4_v8.pdf
+https://www.epa.ie/pubs/advice/drinkingwater/DrinkingWaterGuide4_v8.pdf YES
 
 
 
